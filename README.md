@@ -45,9 +45,3 @@ Já o **Python** foi utilizado para aprofundar a análise dos dados, oferecendo 
 - Geração de gráficos para validar e complementar os resultados observados nos dashboards
 
 Essa combinação permite conectar uma visão mais analítica, explorada em Python, com uma camada visual e orientada ao negócio, construída em Excel.
-
-### Exemplos de Visualizações
-
-**Excel – Evolução das Vendas por Mês**
-
-![Vendas por mês](excel/screenshot/vendas-mes.png)
